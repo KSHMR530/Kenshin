@@ -2,7 +2,7 @@
     "storeHouse": [
         {
             "sourceName": "本地仓库(香雅情收集)",
-            "sourceUrl": "clan://localhost/XYQTVBox/hiker_offline.json"
+            "sourceUrl": "./hiker_offline.json"
         }
     ]
 }
