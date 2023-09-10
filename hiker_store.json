@@ -2,7 +2,7 @@
     "storeHouse": [
         {
             "sourceName": "仓库(香雅情收集)",
-            "sourceUrl": "./hiker_offline.json"
+            "sourceUrl": "https://raw.gitmirror.com/KSHMR530/Kenshin/master/hiker_offline.json"
         }
     ]
 }
