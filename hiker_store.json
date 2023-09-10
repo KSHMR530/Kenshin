@@ -1,7 +1,7 @@
 {
     "storeHouse": [
         {
-            "sourceName": "本地仓库(香雅情收集)",
+            "sourceName": "仓库(香雅情收集)",
             "sourceUrl": "./hiker_offline.json"
         }
     ]
