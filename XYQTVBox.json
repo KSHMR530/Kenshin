@@ -30,19 +30,6 @@
           //"epg": "http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}",
           "epg": "https://epg.112114.xyz/?ch={name}&date={date}",
           "logo": "https://epg.112114.xyz/logo/{name}.png"
-        },
-        {
-            "group": "redirect",
-            "channels": [
-                {
-                    "name": "live",
-                    "epg": "https://epg.112114.xyz/?ch={name}&date={date}",
-                    //"urls": ["proxy://do=live&type=txt&ext=aHR0cDovLzl4aTRvLnRrL09uZUNsaWNrUnVuL2xpdmUudHh0"]
-                    //"urls": ["proxy://do=live&type=txt&ext=https://agit.ai/Yoursmile7/TVBox/raw/branch/master/live.txt"]
-                    //"urls": ["proxy://do=live&type=txt&ext=http://dlq.gmqd.com/upload/20220921115985878587.txt"]
-                    "urls": ["proxy://do=live&type=txt&ext=http://home.jundie.top:81/ray/tvlive.txt"]
-                }
-            ]
         }
     ],
     "sites": [
