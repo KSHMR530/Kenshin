@@ -1,23 +1,23 @@
 {
-   "sites": [
+   "urls": [
     {
-      "url": "./XYQTVBox.json",
+      "url": "https://raw.gitmirror.com/KSHMR530/Kenshin/master/XYQTVBox.json",
       "name": "香雅情(推送)",
       "time": "2023-09-10"
     },
     {
-      "url": "./JS/js.json",
-      "name": "道长新JS",
+      "url": "https://raw.gitmirror.com/KSHMR530/Kenshin/master/JS/js.json",
+      "name": "道长JS",
       "time": "2023-09-10"
     },
     {
-      "url": "./PG/PG.json",
+      "url": "https://raw.gitmirror.com/KSHMR530/Kenshin/master/PG/PG.json",
       "name": "PG系列",
       "time": "2023-09-10"
     },
     {
-      "url": "./Yoursmile/XC.json",
-      "name": "南风本地",
+      "url": "https://raw.gitmirror.com/KSHMR530/Kenshin/master/Yoursmile/XC.json",
+      "name": "南风",
       "time": "2023-09-10"
     }
   ]
