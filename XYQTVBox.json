@@ -3,6 +3,7 @@
     "spider": "./custom_spider.jar",
     "lives": [
         {
+          "boot": true
           "name": "直播",
           "type": 0,
           "playerType": 1,
