@@ -6,19 +6,15 @@
           "name": "直播",
           "type": 0,
           "playerType": 1,
-          "url": "https://agit.ai/Yoursmile7/TVBox/raw/branch/master/live.txt",
-          //"url": "clan://XYQTVBox/live.txt",
-          //"epg": "http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}",
-          "epg": "https://epg.112114.xyz/?ch={name}&date={date}",     
-          //"logo": "http://epg.51zmt.top:8000/api/diyp/logo/{name}.png"
+          "url": "https://agit.ai/Yoursmile7/TVBox/raw/branch/master/live.txt",        
+          "epg": "https://epg.112114.xyz/?ch={name}&date={date}",
           "logo": "https://epg.112114.xyz/logo/{name}.png"
         },
         {
           "name": "浪客",
           "type": 0,
           "playerType": 1,
-          "url": "clan://XYQTVBox/18CQ.txt",
-          //"epg": "http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}",
+          "url": "clan://XYQTVBox/18CQ.txt",        
           "epg": "https://epg.112114.xyz/?ch={name}&date={date}",
           "logo": "https://epg.112114.xyz/logo/{name}.png"
         },
@@ -26,8 +22,7 @@
           "name": "卡通",
           "type": 0,
           "playerType": 1,
-          "url": "clan://XYQTVBox/live11.txt",
-          //"epg": "http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}",
+          "url": "clan://XYQTVBox/live11.txt",       
           "epg": "https://epg.112114.xyz/?ch={name}&date={date}",
           "logo": "https://epg.112114.xyz/logo/{name}.png"
         }
