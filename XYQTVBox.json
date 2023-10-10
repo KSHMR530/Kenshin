@@ -75,7 +75,7 @@
             "key": "厂长",
             "name": "厂长┃XB",
             "type": 3,
-            "jar": "http://xhww.fun:63/小米/ab.jar;md5;8f51d26ffe142c2a4a6d757292eb6730",
+            "jar": "./fty.jar",
             "api": "csp_XBPQ",
             "ext": {
               "搜索url": "https://search.ymck.me/index.php?q={wd}",
