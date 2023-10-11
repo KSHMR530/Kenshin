@@ -54,10 +54,10 @@
         {"key": "纸条","name": "纸条(cli)","type": 4,"api": "http://home.jundie.top:9520/spider/cli_gitCafe","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "http://127.0.0.1:9978/file/tvbox/token.txt"},
         {"key": "push_agent","name": "cli推送(热门搜)","type": 4,"api": "http://home.jundie.top:9520/spider/csp_Push","searchable": 1,"quickSearch": 1,"playerType": 1,"filterable": 1,"ext": "http://127.0.0.1:9978/file/tvbox/token.txt"},
         //ok佬弹幕站点
-        {"jar": "./ok.jar","key":"玩偶","name":"玩偶哥哥|4K","type":3,"api":"csp_Wogg","searchable":1,"filterable":1,"changeable":1, "ext": {"token": "http://127.0.0.1:9978/file/tvbox/token.txt","filter": "https://fongmi.cachefly.net/FongMi/CatVodSpider/main/json/wogg.json","danmu" : false}},
-        {"jar": "./ok.jar","key":"玩偶弹幕版","name":"玩偶哥哥弹幕版|4K","type":3,"api":"csp_Wogg","searchable":1,"filterable":1,"changeable":0, "ext": {"token": "http://127.0.0.1:9978/file/tvbox/token.txt","filter": "https://fongmi.cachefly.net/FongMi/CatVodSpider/main/json/wogg.json","danmu" : true}},
-        {"jar": "./ok.jar","key":"荐片","name":"荐片","type": 3,"api":"csp_Jianpian","searchable":1,"quickSearch":1,"filterable":1,"ext": {"danmu": false}},
-        {"jar": "./ok.jar","key":"荐片弹幕版","name":"荐片弹幕版","type": 3,"api":"csp_Jianpian","searchable":1,"quickSearch":1,"filterable":1,"ext": {"danmu": true}},
+        {"jar": "./ok.jar","key":"玩偶","name":"OK佬_玩偶哥哥|4K","type":3,"api":"csp_Wogg","searchable":1,"filterable":1,"changeable":1, "ext": {"token": "http://127.0.0.1:9978/file/tvbox/token.txt","filter": "https://fongmi.cachefly.net/FongMi/CatVodSpider/main/json/wogg.json","danmu" : false}},
+        {"jar": "./ok.jar","key":"玩偶弹幕版","name":"OK佬_玩偶哥哥弹幕版|4K","type":3,"api":"csp_Wogg","searchable":1,"filterable":1,"changeable":0, "ext": {"token": "http://127.0.0.1:9978/file/tvbox/token.txt","filter": "https://fongmi.cachefly.net/FongMi/CatVodSpider/main/json/wogg.json","danmu" : true}},
+        {"jar": "./ok.jar","key":"荐片","name":"OK佬_荐片","type": 3,"api":"csp_Jianpian","searchable":1,"quickSearch":1,"filterable":1,"ext": {"danmu": false}},
+        {"jar": "./ok.jar","key":"荐片弹幕版","name":"OK佬_荐片弹幕版","type": 3,"api":"csp_Jianpian","searchable":1,"quickSearch":1,"filterable":1,"ext": {"danmu": true}},
          //磁力资源区
         {"key": "csp_Mp4Mov","name": "🧲Mp4电影","type": 3,"api": "csp_Mp4Mov","searchable": 1,"quickSearch": 1,"filterable": 1},
         {"key": "csp_New6v","name": "🧲新6V","type": 3,"api": "csp_New6v","searchable": 1,"quickSearch": 1,"filterable": 1,"ext":"http://www.xb6v.com"},
