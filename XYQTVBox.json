@@ -48,11 +48,11 @@
         {"key": "csp_XYQHiker_土拨鼠搜索","name":"📀土拨鼠(搜索)","type":3,"api":"csp_XYQHiker","playerType":1,"searchable":1,"quickSearch":1,"filterable":1,"ext":"./XYQHiker/土拨鼠搜索.json"},
         //{"key": "csp_XYQHiker_DOVX搜索","name":"📀DOVX(搜索)","type":3,"api":"csp_XYQHiker","playerType":1,"searchable":1,"quickSearch":1,"filterable":1,"ext":"./XYQHiker/DOVX搜索.json"},
         {"key": "csp_XYQHiker_盘搜索","name":"📀盘搜索(搜索)","type":3,"api":"csp_XYQHiker","playerType":1,"searchable":1,"quickSearch":1,"filterable":1,"ext":"./XYQHiker/盘搜索.json"},
-        //{"key":"push_agent","name":"📽推送","type":3,"api":"csp_PushAgent","playerType":1,"searchable":1,"quickSearch":1,"filterable":0,"ext":"http://127.0.0.1:9978/file/tvbox/token.txt"},
+        {"key":"push_agent","name":"📽推送","type":3,"api":"csp_PushAgent","playerType":1,"searchable":1,"quickSearch":1,"filterable":0,"ext":"http://127.0.0.1:9978/file/tvbox/token.txt"},
         {"key": "csp_wogg_cli","name": "玩偶(cli)","type": 4,"api": "http://home.jundie.top:9520/spider/csp_Wogg","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "http://127.0.0.1:9978/file/tvbox/token.txt"},
         {"key": "荐片","name": "荐片(cli)","type": 4,"api": "http://home.jundie.top:9520/spider/csp_JP","searchable": 1,"quickSearch": 1,"filterable": 1},
         {"key": "纸条","name": "纸条(cli)","type": 4,"api": "http://home.jundie.top:9520/spider/cli_gitCafe","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "http://127.0.0.1:9978/file/tvbox/token.txt"},
-        {"key": "push_agent","name": "cli推送(热门搜)","type": 4,"api": "http://home.jundie.top:9520/spider/csp_Push","searchable": 1,"quickSearch": 1,"playerType": 1,"filterable": 1,"ext": "http://127.0.0.1:9978/file/tvbox/token.txt"},
+        {"key": "push_agent_cli","name": "cli推送(热门搜)","type": 4,"api": "http://home.jundie.top:9520/spider/csp_Push","searchable": 1,"quickSearch": 1,"playerType": 1,"filterable": 1,"ext": "http://127.0.0.1:9978/file/tvbox/token.txt"},
         //ok佬弹幕站点
         {"jar": "./ok.jar","key":"玩偶","name":"OK佬_玩偶哥哥|4K","type":3,"api":"csp_Wogg","searchable":1,"filterable":1,"changeable":1, "ext": {"token":"http://127.0.0.1:9978/file/tvbox/token.txt","filter":"https://fongmi.cachefly.net/FongMi/CatVodSpider/main/json/wogg.json","danmu" : false}},
         {"jar": "./ok.jar","key":"玩偶弹幕版","name":"OK佬_玩偶弹幕版|4K","type":3,"api":"csp_Wogg","searchable":1,"filterable":1,"changeable":0, "ext": {"token": "http://127.0.0.1:9978/file/tvbox/token.txt","filter": "https://fongmi.cachefly.net/FongMi/CatVodSpider/main/json/wogg.json","danmu" : true}},
