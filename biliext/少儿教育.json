@@ -1,5 +1,5 @@
 {
-    "cookie": "./biliext/cookie.txt",
+    "cookie": "./cookie.txt",
     "classes": [
         {
             "type_name": "儿童",
