@@ -57,6 +57,7 @@
         {"jar": "./ok.jar","key":"荐片弹幕版","name":"OK佬_荐片弹幕版","type": 3,"api":"csp_Jianpian","searchable":1,"quickSearch":1,"filterable":1,"ext": {"danmu": true}},
         {"jar": "./ok.jar","key":"jojo弹幕版","name":"OK佬_JOJO弹幕版","type":3,"api":"csp_Jojo","searchable":1,"filterable":1,"changeable":1,"ext": {"danmu": true}},
         {"jar": "./ok.jar","key":"jojo弹幕直连","name":"OK佬_JOJO弹幕直连版","type":3,"api":"csp_Jiohub","searchable":1,"filterable":1,"changeable":1,"ext": {"danmu": true}},
+        {"jar": "./ok.jar","key":"YouKu","name":"OK佬_优酷弹幕版","type": 3,"api":"csp_YouKu","searchable": 1,"filterable": 1,"changeable":1,"ext": {"danmu": true}},
         {"jar": "./ok.jar","key":"sp360","name":"OK佬_360弹幕版","type": 3,"api":"csp_Sp360","searchable": 1,"filterable": 1,"changeable":1,"ext": {"danmu": true}},
          //磁力资源区
         {"key": "csp_Mp4Mov","name": "🧲Mp4电影","type": 3,"api": "csp_Mp4Mov","searchable": 1,"quickSearch": 1,"filterable": 1},
