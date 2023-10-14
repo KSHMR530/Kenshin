@@ -1,6 +1,6 @@
-import {load, _, Uri} from './cat/lib/cat.js';
-import {log} from './cat/lib/utils.js';
-import {initAli, detailContent, playContent}  from './cat/lib/ali.js';
+import {load, _, Uri} from './lib/cat.js';
+import {log} from './lib/utils.js';
+import {initAli, detailContent, playContent}  from './lib/ali.js';
 
 let siteKey = 'wobg';
 let siteType = 0;
