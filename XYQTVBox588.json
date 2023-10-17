@@ -31,7 +31,7 @@
         {"key":"jiohub","name":"JOJO[猫源]","type":3,"api":"./drpy_js/jiohub.js"},
         {"key":"csp_LocalFile","name":"💻本地视频","type":3,"api":"csp_LocalFile","searchable":0,"quickSearch":0,"filterable":0,"type_flag":0},
      {
-      "jar":"./yyds.jar",
+      "jar":"./yysd.jar",
       "key": "應用商店",
       "name": "💻应用商店",
       "type": 3,
