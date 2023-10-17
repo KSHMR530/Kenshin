@@ -229,7 +229,6 @@
         {"name":"TV版(4.1-4.4)","url":"https://raw.githubusercontent.com/FongMi/Release/main/apk/kitkat/leanback.apk","icon":"https://raw.githubusercontent.com/FongMi/TV/main/other/image/icon-2.png"}
         ]
     },
-
     {"key":"影视更新1","name":"💻影视正式版ghproxy.com","type":3,"api":"csp_Market","searchable":1,"changeable":1,"jar":"https://ghproxy.com/https://raw.githubusercontent.com/FongMi/CatVodSpider/main/jar/custom_spider.jar","ext":[
         {"name":"TV版-java32","url":"https://ghproxy.com/https://raw.githubusercontent.com/FongMi/Release/main/apk/release/leanback-java-armeabi_v7a.apk","icon":"https://ghproxy.com/https://raw.githubusercontent.com/FongMi/TV/main/other/image/icon-2.png"},
         {"name":"TV版-java64","url":"https://ghproxy.com/https://raw.githubusercontent.com/FongMi/Release/main/apk/release/leanback-java-arm64_v8a.apk","icon":"https://ghproxy.com/https://raw.githubusercontent.com/FongMi/TV/main/other/image/icon-2.png"},
@@ -253,8 +252,7 @@
         {"name":"手機版-py64","url":"https://ghproxy.com/https://raw.githubusercontent.com/FongMi/Release/main/apk/dev/mobile-python-arm64_v8a.apk","icon":"https://ghproxy.com/https://raw.githubusercontent.com/FongMi/TV/main/other/image/icon-2.png"},
         {"name":"TV版(4.1-4.4)","url":"https://ghproxy.com/https://raw.githubusercontent.com/FongMi/Release/main/apk/kitkat/leanback.apk","icon":"https://ghproxy.com/https://raw.githubusercontent.com/FongMi/TV/main/other/image/icon-2.png"}
         ]
-    },
-        
+    },     
     {"key":"影视更新2","name":"💻影视正式版gh-proxy.com","type":3,"api":"csp_Market","searchable":1,"changeable":1,"jar":"https://gh-proxy.com/https://raw.githubusercontent.com/FongMi/CatVodSpider/main/jar/custom_spider.jar","ext":[
         {"name":"TV版-java32","url":"https://gh-proxy.com/https://raw.githubusercontent.com/FongMi/Release/main/apk/release/leanback-java-armeabi_v7a.apk","icon":"https://gh-proxy.com/https://raw.githubusercontent.com/FongMi/TV/main/other/image/icon-2.png"},
         {"name":"TV版-java64","url":"https://gh-proxy.com/https://raw.githubusercontent.com/FongMi/Release/main/apk/release/leanback-java-arm64_v8a.apk","icon":"https://gh-proxy.com/https://raw.githubusercontent.com/FongMi/TV/main/other/image/icon-2.png"},
@@ -279,7 +277,6 @@
         {"name":"TV版(4.1-4.4)","url":"https://gh-proxy.com/https://raw.githubusercontent.com/FongMi/Release/main/apk/kitkat/leanback.apk","icon":"https://gh-proxy.com/https://raw.githubusercontent.com/FongMi/TV/main/other/image/icon-2.png"}
         ]
     },
-
     {"key":"影视更新3","name":"💻影视正式版ghproxy.net","type":3,"api":"csp_Market","searchable":1,"changeable":1,"jar":"https://ghproxy.net/https://raw.githubusercontent.com/FongMi/CatVodSpider/main/jar/custom_spider.jar","ext":[
         {"name":"TV版-java32","url":"https://ghproxy.net/https://raw.githubusercontent.com/FongMi/Release/main/apk/release/leanback-java-armeabi_v7a.apk","icon":"https://ghproxy.net/https://raw.githubusercontent.com/FongMi/TV/main/other/image/icon-2.png"},
         {"name":"TV版-java64","url":"https://ghproxy.net/https://raw.githubusercontent.com/FongMi/Release/main/apk/release/leanback-java-arm64_v8a.apk","icon":"https://ghproxy.net/https://raw.githubusercontent.com/FongMi/TV/main/other/image/icon-2.png"},
@@ -304,7 +301,6 @@
         {"name":"TV版(4.1-4.4)","url":"https://ghproxy.net/https://raw.githubusercontent.com/FongMi/Release/main/apk/kitkat/leanback.apk","icon":"https://ghproxy.net/https://raw.githubusercontent.com/FongMi/TV/main/other/image/icon-2.png"}
         ]
     },
-
     {"key":"影视更新4","name":"💻影视正式版fongmi","type":3,"api":"csp_Market","searchable":1,"changeable":1,"jar":"https://fongmi.cachefly.net/FongMi/CatVodSpider/main/jar/custom_spider.jar","ext":[
         {"name":"TV版-java32","url":"https://fongmi.cachefly.net/FongMi/Release/main/apk/release/leanback-java-armeabi_v7a.apk","icon":"https://fongmi.cachefly.net/FongMi/TV/main/other/image/icon-2.png"},
         {"name":"TV版-java64","url":"https://fongmi.cachefly.net/FongMi/Release/main/apk/release/leanback-java-arm64_v8a.apk","icon":"https://fongmi.cachefly.net/FongMi/TV/main/other/image/icon-2.png"},
@@ -328,8 +324,7 @@
         {"name":"手機版-py64","url":"https://fongmi.cachefly.net/FongMi/Release/main/apk/dev/mobile-python-arm64_v8a.apk","icon":"https://fongmi.cachefly.net/FongMi/TV/main/other/image/icon-2.png"},
         {"name":"TV版(4.1-4.4)","url":"https://fongmi.cachefly.net/FongMi/Release/main/apk/kitkat/leanback.apk","icon":"https://fongmi.cachefly.net/FongMi/TV/main/other/image/icon-2.png"}
         ]
-    },
-    
+    },   
     {"key":"影视更新5","name":"💻影视正式版Ly","type":3,"api":"csp_Market","searchable":1,"changeable":1,"jar":"http://666.ewwe.gq/FongMi/CatVodSpider/main/jar/custom_spider.jar","ext":[
         {"name":"TV版-java32","url":"http://666.ewwe.gq/FongMi/Release/main/apk/release/leanback-java-armeabi_v7a.apk","icon":"http://666.ewwe.gq/FongMi/TV/main/other/image/icon-2.png"},
         {"name":"TV版-java64","url":"http://666.ewwe.gq/FongMi/Release/main/apk/release/leanback-java-arm64_v8a.apk","icon":"http://666.ewwe.gq/FongMi/TV/main/other/image/icon-2.png"},
@@ -354,7 +349,6 @@
         {"name":"TV版(4.1-4.4)","url":"http://666.ewwe.gq/FongMi/Release/main/apk/kitkat/leanback.apk","icon":"http://666.ewwe.gq/FongMi/TV/main/other/image/icon-2.png"}
         ]
     },
-
     {"key":"影视更新6","name":"💻影视正式版iqiq","type":3,"api":"csp_Market","searchable":1,"changeable":1,"jar":"https://raw.iqiq.io/FongMi/CatVodSpider/main/jar/custom_spider.jar","ext":[
         {"name":"TV版-java32","url":"https://raw.iqiq.io/FongMi/Release/main/apk/release/leanback-java-armeabi_v7a.apk","icon":"https://raw.iqiq.io/FongMi/TV/main/other/image/icon-2.png"},
         {"name":"TV版-java64","url":"https://raw.iqiq.io/FongMi/Release/main/apk/release/leanback-java-arm64_v8a.apk","icon":"https://raw.iqiq.io/FongMi/TV/main/other/image/icon-2.png"},
@@ -379,7 +373,6 @@
         {"name":"TV版(4.1-4.4)","url":"https://raw.iqiq.io/FongMi/Release/main/apk/kitkat/leanback.apk","icon":"https://raw.iqiq.io/FongMi/TV/main/other/image/icon-2.png"}
         ]
     },
-    
     {"key":"影视更新7","name":"💻影视正式版fastgit","type":3,"api":"csp_Market","searchable":1,"changeable":1,"jar":"https://raw.fastgit.org/FongMi/CatVodSpider/main/jar/custom_spider.jar","ext":[
         {"name":"TV版-java32","url":"https://raw.fastgit.org/FongMi/Release/main/apk/release/leanback-java-armeabi_v7a.apk","icon":"https://raw.fastgit.org/FongMi/TV/main/other/image/icon-2.png"},
         {"name":"TV版-java64","url":"https://raw.fastgit.org/FongMi/Release/main/apk/release/leanback-java-arm64_v8a.apk","icon":"https://raw.fastgit.org/FongMi/TV/main/other/image/icon-2.png"},
@@ -403,8 +396,7 @@
         {"name":"手機版-py64","url":"https://raw.fastgit.org/FongMi/Release/main/apk/dev/mobile-python-arm64_v8a.apk","icon":"https://raw.fastgit.org/FongMi/TV/main/other/image/icon-2.png"},
         {"name":"TV版(4.1-4.4)","url":"https://raw.fastgit.org/FongMi/Release/main/apk/kitkat/leanback.apk","icon":"https://raw.fastgit.org/FongMi/TV/main/other/image/icon-2.png"}
         ]
-    },
-    
+    },   
     {"key":"影视更新8","name":"💻影视正式版ghps.cc","type":3,"api":"csp_Market","searchable":1,"changeable":1,"jar":"https://ghps.cc/https://raw.githubusercontent.com/FongMi/CatVodSpider/main/jar/custom_spider.jar","ext":[
         {"name":"TV版-java32","url":"https://ghps.cc/https://raw.githubusercontent.com/FongMi/Release/main/apk/release/leanback-java-armeabi_v7a.apk","icon":"https://ghps.cc/https://raw.githubusercontent.com/FongMi/TV/main/other/image/icon-2.png"},
         {"name":"TV版-java64","url":"https://ghps.cc/https://raw.githubusercontent.com/FongMi/Release/main/apk/release/leanback-java-arm64_v8a.apk","icon":"https://ghps.cc/https://raw.githubusercontent.com/FongMi/TV/main/other/image/icon-2.png"},
@@ -428,7 +420,7 @@
         {"name":"手機版-py64","url":"https://ghps.cc/https://raw.githubusercontent.com/FongMi/Release/main/apk/dev/mobile-python-arm64_v8a.apk","icon":"https://ghps.cc/https://raw.githubusercontent.com/FongMi/TV/main/other/image/icon-2.png"},
         {"name":"TV版(4.1-4.4)","url":"https://ghps.cc/https://raw.githubusercontent.com/FongMi/Release/main/apk/kitkat/leanback.apk","icon":"https://ghps.cc/https://raw.githubusercontent.com/FongMi/TV/main/other/image/icon-2.png"}
         ]
-    }，        
+    },
         //采集接口规则区
         //json采集接口type：1，xml采集接口type：0
         {"key":"csp_appysv2_看剧吧","name":"看剧吧(普通)","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://app.ishen520.com/api.php/v1.vod"},
