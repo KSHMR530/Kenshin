@@ -203,8 +203,8 @@
         {"key": "csp_XYQBiu_TVB云播","name": "TVB云播(XYQ)","type": 3,"api": "csp_XYQBiu","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "./XYQBiu/TVB云播.json"},
         {"key": "csp_XYQBiu_Libvio","name": "Libvio(XYQ)","type": 3,"api": "csp_XYQBiu","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "./XYQBiu/libvio.json"},
         {"key": "csp_XYQBiu_石榴电影","name":"石榴电影","type":3,"api":"csp_XYQBiu","searchable":1,"quickSearch":1,"filterable":1,"ext":"./XYQBiu/石榴电影.json"},
-        {"key": "csp_XYQBiu_分享短视频","name": "分享短视频(XYQ)","type": 3,"api": "csp_XYQBiu","searchable": 0,"quickSearch": 0,"filterable": 0,"ext": "./XYQBiu/分享短视频.json"}，       
-        //影视软件更新区
+        {"key": "csp_XYQBiu_分享短视频","name": "分享短视频(XYQ)","type": 3,"api": "csp_XYQBiu","searchable": 0,"quickSearch": 0,"filterable": 0,"ext": "./XYQBiu/分享短视频.json"},
+         //影视软件更新区
         {"key":"影视更新0","name":"💻影视正式版直链","type":3,"api":"csp_Market","searchable":1,"changeable":1,"jar":"https://raw.githubusercontent.com/FongMi/CatVodSpider/main/jar/custom_spider.jar","ext":[
         {"name":"TV版-java32","url":"https://raw.githubusercontent.com/FongMi/Release/main/apk/release/leanback-java-armeabi_v7a.apk","icon":"https://raw.githubusercontent.com/FongMi/TV/main/other/image/icon-2.png"},
         {"name":"TV版-java64","url":"https://raw.githubusercontent.com/FongMi/Release/main/apk/release/leanback-java-arm64_v8a.apk","icon":"https://raw.githubusercontent.com/FongMi/TV/main/other/image/icon-2.png"},
