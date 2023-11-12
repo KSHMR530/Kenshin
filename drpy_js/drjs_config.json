@@ -1730,15 +1730,15 @@
         "path="
       ]
     },
-    {"name":"采集站广告","hosts":["vip.ffzy","hd.ffzy","vip.lz","hd.lz",".cdnlz","suonizy","bfzy"],"regex":["#EXTINF.*?\\s+.*?1o.*?\\.ts\\s+"]},
+    {"name":"采集站广告","hosts":["vip.ffzy","hd.ffzy","vip.lz","hd.lz",".cdnlz","suonizy","bfzy"],"regex":["#EXTINF.*?\\s+.*?1o.*?\\.ts\\s+","#EXTINF.*?\\s+.*?11697777.*?\\.ts\\s+","#EXTINF.*?\\s+.*?p1ayer.*?\\.ts\\s+"]},
     {"name":"磁力广告","hosts":["magnet"],"regex":["更多","社 區","x u u","最 新","更 新","社 区","有趣","有 趣","英皇体育","全中文AV在线","澳门皇冠赌场","哥哥快来","美女荷官","裸聊","新片首发","UUE29"]}
     
   ],
   "parses": [
     {
-      "name": "1-盘古",
+      "name": "1-全看",
       "type": 0,
-      "url": "https://www.pangujiexi.cc/jiexi.php?url="
+      "url": "https://jx.quankan.app/?url="
     },
     {
       "name": "2-虾米",
