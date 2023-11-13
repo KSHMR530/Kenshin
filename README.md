@@ -1,16 +1,12 @@
 # Kenshin
 
 #### 使用说明
-
-手机本地使用请按文件目录路径 存放文件，以免个别功能不正常。!!!不要改放到别的地方去。
+本文件全部转载自 香雅情大佬
 
 电视使用请 按步骤操作说明操作 并填写正确的配置接口
 
 配置接口
-https://raw.gitmirror.com/KSHMR530/Kenshin/master/XYQTVBox.json
-
-多仓配置接口
-https://raw.gitmirror.com/KSHMR530/Kenshin/master/hiker_store.json
+https://999740.xyz/https://raw.githubusercontent.com/KSHMR530/Kenshin/master/XYQTVBox.json
 
 香佬官方更新网址
 https://framagit.org/lzk23559/tvbox/-/tree/main
