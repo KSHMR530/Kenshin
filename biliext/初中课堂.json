@@ -1,5 +1,5 @@
 {
-    "cookie": "clan://XYQTVBox/biliext/cookie.txt",
+    "cookie": "file://XYQTVBox/bilicookie.txt",
     "classes": [
         {
             "type_name": "7年级语文",
